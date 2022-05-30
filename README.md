@@ -37,7 +37,7 @@
 
 ---
 ### &nbsp;GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomouraas&show_icons=true&theme=gotham)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?samuelteodoroferreira=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### &nbsp;Connect with Me
