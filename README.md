@@ -37,7 +37,7 @@
 
 ---
 ### &nbsp;GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelTeodoro&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelteodoferreira&show_icons=true&theme=gotham)
 
 ---
 ### &nbsp;Connect with Me
