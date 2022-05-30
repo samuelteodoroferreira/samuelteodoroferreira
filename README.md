@@ -40,7 +40,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelteodoroferreira&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelteodoroferreira&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelteodoroferreira&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelteodoferreira&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelteodoroferreira&show_icons=true&theme=radical)
 
 ---
 ### &nbsp;Connect with Me
