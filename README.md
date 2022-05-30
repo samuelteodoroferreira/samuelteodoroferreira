@@ -1,4 +1,4 @@
-![](https://www.russelllands.com/blog/wp-content/uploads/banner-saturn-v-launch.jpg?w=200)
+![](https://wanderlustwendy.com/wp-content/uploads/2018/02/code-and-coffee.jpeg)
 <!---
 <a data-flickr-embed="true" href="https://www.russelllands.com/blog/wp-content/uploads/banner-saturn-v-launch.jpg" title="Apollo 8 launch"><img src="https://www.russelllands.com/blog/wp-content/uploads/banner-saturn-v-launch.jpg" alt="Apollo 8 launch"></a>
 --->
