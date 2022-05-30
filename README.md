@@ -37,7 +37,7 @@
 
 ---
 ### &nbsp;GitHub Analytics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisamuelteodoroferreiraanuraghazra)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelteodoroferreira&count_private=true)
 
 ---
 ### &nbsp;Connect with Me
