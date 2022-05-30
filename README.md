@@ -43,10 +43,10 @@
 ### &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/samuel-teodoro-ferreira-89340213b/"><img src="https://img.shields.io/badge/-Diego%20Moura-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="samuelteodoroferreira@gmail.com"><img src="https://img.shields.io/badge/-diegomoura.contact@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samuel-teodoro-ferreira-89340213b/"><img src="https://img.shields.io/badge/-Samuel%20Teodoro-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="samuelteodoroferreira@gmail.com"><img src="https://img.shields.io/badge/-samuelteodoroferreira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!---
-Diegomouraas/Diegomouraas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+samuelteodoroferreira/samuelteodoroferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
