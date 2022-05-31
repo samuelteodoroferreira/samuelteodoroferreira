@@ -1,3 +1,16 @@
+<div align="center">
+    <img style="display: block" src="https://raw.githubusercontent.com/hugolcouto/hugolcouto/main/assets/images/logo.png" width="250">
+</div>
+<h1 align="center">Hi! I'm Sam</h1>
+
+Living a crazy life, insatisfacted with Public Servante Job, trying to move for a Developer Professional. 
+Serious... Im work for Mayor Manager, but its a choice for a long time. 10 years ... But When I waked ... I see that a lose a long time.. Then I restart my carrier, studyng languages, Ruby, Rails, Web.  I have 40 years. 
+
+I have good communication, proactive, focused and also enthusiastic about new things.
+I participate in an Innovation Community, in which I want to promote Technologies and Innovations in my city.
+
+For pleasure... Two days a week I teach programming and robotics classes to students at a public school in my city.
+
 ![](https://wanderlustwendy.com/wp-content/uploads/2018/02/code-and-coffee.jpeg)
 <!---
 <a data-flickr-embed="true" href="https://www.russelllands.com/blog/wp-content/uploads/banner-saturn-v-launch.jpg" title="Apollo 8 launch"><img src="https://www.russelllands.com/blog/wp-content/uploads/banner-saturn-v-launch.jpg" alt="Apollo 8 launch"></a>
