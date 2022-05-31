@@ -58,6 +58,8 @@ For pleasure... Two days a week I teach programming and robotics classes to stud
 <p align="center">
     <a href="https://www.linkedin.com/in/samuel-teodoro-ferreira-89340213b/"><img src="https://img.shields.io/badge/-Samuel%20Teodoro-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:samuelteodoroferreira@gmail.com"><img src="https://img.shields.io/badge/-samuelteodoroferreira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+       <a href="@samuelteodoro"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    
 </p>
 
 
