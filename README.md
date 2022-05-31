@@ -63,7 +63,7 @@ For pleasure... Two days a week I teach programming and robotics classes to stud
     
     <a href="mailto:samuelteodoroferreira@gmail.com"><img src="https://img.shields.io/badge/-samuelteodoroferreira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
     
-    <a href="@samuelteodoroferreira"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </p>
 
 
