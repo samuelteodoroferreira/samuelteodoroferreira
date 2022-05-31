@@ -9,7 +9,7 @@ Serious... Im work for Mayor Manager, but its a choice for a long time. 10 years
 I have good communication, proactive, focused and also enthusiastic about new things.
 I participate in an Innovation Community, in which I want to promote Technologies and Innovations in my city.
 
-For pleasure... Two days a week I teach programming and robotics classes to students at a public school in my city.
+For pleasure... Two days a week I teach programming and robotics classes to students at a public school in Angra dos Reis - RJ - Brasil.
 
 ![](https://wanderlustwendy.com/wp-content/uploads/2018/02/code-and-coffee.jpeg)
 <!---
