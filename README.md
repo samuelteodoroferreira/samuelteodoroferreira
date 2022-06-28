@@ -63,8 +63,8 @@ For pleasure... Two days a week I teach programming and robotics classes to stud
     
 </p>
 
-
-
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="samuel-teodoro-ferreira-89340213b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/samuel-teodoro-ferreira-89340213b?trk=profile-badge">Samuel Teodoro Ferreira</a></div>
+              
 <!---
 samuelteodoroferreira/samuelteodoroferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. ---!>
