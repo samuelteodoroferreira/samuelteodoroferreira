@@ -3,13 +3,11 @@
 </div>
 <h1 align="center">Hi! I'm Sam,  I have 40 yo.</h1>
 
-Living a crazy life, insatisfacted with Public Servante Job, trying to move for a Developer Professional. 
-Serious... Im work for Mayor Manager, but its a choice for a long time. 10 years ... But When I waked ... I see that a lose a long time.. Then I restart my carrier, studyng languages, Ruby, Rails, Web.  
+Vivendo uma vida agitada, insatisfeito com o meu emprego no setor público, buscando uma transição para uma carreira de desenvolvedor. Sério... Trabalhei como Gerente Municipal, mas essa foi uma escolha que perdurou por muito tempo. Dez anos... Mas, quando finalmente acordei, percebi que havia perdido muito tempo. Foi então que decidi recomeçar minha carreira, estudando linguagens como Ruby, Rails e Web.
 
-I have good communication, proactive, focused and also enthusiastic about new things.
-I participate in an Innovation Community, in which I want to promote Technologies and Innovations in my city.
+Tenho habilidades de comunicação sólidas, sou proativo, focado e sempre entusiasta por aprender coisas novas. Faço parte de uma Comunidade de Inovação, onde tenho a intenção de promover tecnologias e inovações na minha cidade.
 
-For pleasure... Two days a week I teach programming and robotics classes to students at a public school in Angra dos Reis - RJ - Brasil.
+Por puro prazer, dedico dois dias da semana para lecionar aulas de programação e robótica para estudantes em uma escola pública em Angra dos Reis, no Rio de Janeiro, Brasil.
 
 ![](https://wanderlustwendy.com/wp-content/uploads/2018/02/code-and-coffee.jpeg)
 <!---
