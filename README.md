@@ -1,9 +1,9 @@
 <div align="center">
     <img style="" width="250">
 </div>
-<h1 align="center">Hi! I'm Sam,  I have 40 yo.</h1>
+<h1 align="center">Hi! I'm Sam,  I have 43 yo.</h1>
 
-Vivendo uma vida agitada, insatisfeito com o meu emprego no setor público, buscando uma transição para uma carreira de desenvolvedor. Sério... Trabalhei como Gerente Municipal, mas essa foi uma escolha que perdurou por muito tempo. Dez anos... Mas, quando finalmente acordei, percebi que havia perdido muito tempo. Foi então que decidi recomeçar minha carreira, estudando linguagens como Ruby, Rails e Web.
+Vivendo uma vida agitada, buscando uma transição para uma carreira de desenvolvedor. Sério... Trabalhei como Gerente Municipal, mas essa foi uma escolha que perdurou por muito tempo. Dez anos... Foi então que decidi recomeçar minha carreira, estudando linguagens como Ruby, Rails e Web - Desenvolvimento Mobile focando em Kotlin, Fluter e Swift. 
 
 Tenho habilidades de comunicação sólidas, sou proativo, focado e sempre entusiasta por aprender coisas novas. Faço parte de uma Comunidade de Inovação, onde tenho a intenção de promover tecnologias e inovações na minha cidade.
 
