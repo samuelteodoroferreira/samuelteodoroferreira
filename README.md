@@ -7,9 +7,9 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 
 Projetos em que trabalhei:
 
-![](https://bancodetalentos.angra.rj.gov.br/home/)
+https://bancodetalentos.angra.rj.gov.br/home/
 
-![](https://parquetecmar.angra.rj.gov.br/)
+https://parquetecmar.angra.rj.gov.br/
 
 ![](https://br.pinterest.com/pin/9710955439954027/)
 <!---
